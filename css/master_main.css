@@ -1,0 +1,261 @@
+#u95-3
+{
+	background: #BFBFBF url("../images/magazinestack-u95-3-fr.png") no-repeat left top;
+	background-color: rgba(127,127,127,0.5);
+	background-size: cover;
+}
+
+#u154-5
+{
+	display: block;
+	vertical-align: top;
+}
+
+#menuu97
+{
+	border-color: #000000;
+	background-color: transparent;
+}
+
+#u136
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u416
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #D8D8D8;
+	background-color: rgba(178,178,178,0.5);
+	-pie-background: rgba(178,178,178,0.5);
+}
+
+#u416:hover
+{
+	background-color: #BFBFBF;
+	background-color: rgba(127,127,127,0.5);
+	-pie-background: rgba(127,127,127,0.5);
+}
+
+#u416.MuseMenuActive
+{
+	background-color: #B2B2B2;
+	background-color: rgba(102,102,102,0.5);
+	-pie-background: rgba(102,102,102,0.5);
+}
+
+#u420-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 13px;
+	text-align: center;
+	letter-spacing: 1px;
+	font-size: 11px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+}
+
+#u448
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #D8D8D8;
+	background-color: rgba(178,178,178,0.5);
+	-pie-background: rgba(178,178,178,0.5);
+}
+
+#u448:hover
+{
+	background-color: #BFBFBF;
+	background-color: rgba(127,127,127,0.5);
+	-pie-background: rgba(127,127,127,0.5);
+}
+
+#u448.MuseMenuActive
+{
+	background-color: #B2B2B2;
+	background-color: rgba(102,102,102,0.5);
+	-pie-background: rgba(102,102,102,0.5);
+}
+
+#u450-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 13px;
+	text-align: center;
+	letter-spacing: 1px;
+	font-size: 11px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+}
+
+#u481
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #D8D8D8;
+	background-color: rgba(178,178,178,0.5);
+	-pie-background: rgba(178,178,178,0.5);
+}
+
+#u481:hover
+{
+	background-color: #BFBFBF;
+	background-color: rgba(127,127,127,0.5);
+	-pie-background: rgba(127,127,127,0.5);
+}
+
+#u481.MuseMenuActive
+{
+	background-color: #B2B2B2;
+	background-color: rgba(102,102,102,0.5);
+	-pie-background: rgba(102,102,102,0.5);
+}
+
+#u483-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 13px;
+	text-align: center;
+	letter-spacing: 1px;
+	font-size: 11px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+}
+
+#u516
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #D8D8D8;
+	background-color: rgba(178,178,178,0.5);
+	-pie-background: rgba(178,178,178,0.5);
+}
+
+#u516:hover
+{
+	background-color: #BFBFBF;
+	background-color: rgba(127,127,127,0.5);
+	-pie-background: rgba(127,127,127,0.5);
+}
+
+#u516.MuseMenuActive
+{
+	background-color: #B2B2B2;
+	background-color: rgba(102,102,102,0.5);
+	-pie-background: rgba(102,102,102,0.5);
+}
+
+#u518-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 13px;
+	text-align: center;
+	letter-spacing: 1px;
+	font-size: 11px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+}
+
+#u549
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #D8D8D8;
+	background-color: rgba(178,178,178,0.5);
+	-pie-background: rgba(178,178,178,0.5);
+}
+
+#u549:hover
+{
+	background-color: #BFBFBF;
+	background-color: rgba(127,127,127,0.5);
+	-pie-background: rgba(127,127,127,0.5);
+}
+
+#u549.MuseMenuActive
+{
+	background-color: #B2B2B2;
+	background-color: rgba(102,102,102,0.5);
+	-pie-background: rgba(102,102,102,0.5);
+}
+
+#u550-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 13px;
+	text-align: center;
+	letter-spacing: 1px;
+	font-size: 11px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+}
+
+#u349
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u382
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u137-4_clip,#u352-4_clip,#u383-4_clip
+{
+	overflow: hidden;
+	vertical-align: top;
+}
+
+#u137-4_img,#u352-4_img,#u383-4_img
+{
+	display: block;
+}
+
+.MenuItem /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#u96,#u155
+{
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: transparent;
+	border-width: 0px 0px 0px 1px;
+}
+
+#u94
+{
+	border-color: #000000;
+	background-color: #B2B2B2;
+	opacity: 0.67;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=67)";
+	filter: alpha(opacity=67);
+}
+
+#u156
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u98,#u99,#u100,#u414,#u447,#u480,#u513,#u546,#u348,#u381,#u159,#u161,#u157
+{
+	background-color: transparent;
+}
+
+

@@ -1,0 +1,237 @@
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vickidancau.com" resolutions="1x,2x" timestamp="1461631432704">
+  <folder name="css">
+    <file name="site_global.css" crc="248263684"/>
+    <file name="master_main.css" crc="245946489" ref="mini-book:about:mural:index:hrsa:resume:magazine:streams"/>
+    <file name="mini-book.css" crc="3872582416" ref="mini-book"/>
+    <file name="about.css" crc="96436068" ref="about"/>
+    <file name="mural.css" crc="61994498" ref="mural"/>
+    <file name="index.css" crc="3936013230" ref="index"/>
+    <file name="hrsa.css" crc="251267991" ref="hrsa"/>
+    <file name="resume.css" crc="4205087210" ref="resume"/>
+    <file name="magazine.css" crc="3906415339" ref="magazine"/>
+    <file name="streams.css" crc="4068962920" ref="streams"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index:resume:about:streams:hrsa:mini-book:magazine:mural"/>
+    <file name="museutils.js" crc="4190794036" ref="index:resume:about:streams:hrsa:mini-book:magazine:mural"/>
+    <file name="whatinput.js" crc="84559013" ref="index:resume:about:streams:hrsa:mini-book:magazine:mural"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3792042506" ref="index:streams:hrsa:mini-book:magazine:mural"/>
+    <file name="pie.js" crc="3827607177" ref="index:resume"/>
+    <file name="jquery.musemenu.js" crc="3866264083" ref="index:resume:about:streams:hrsa:mini-book:magazine:mural"/>
+    <file name="jquery.watch.js" crc="349565855" ref="index:resume:about:streams:hrsa:mini-book:magazine:mural"/>
+    <file name="jquery.scrolleffects.js" crc="3837774061" ref="index:resume:about:streams:hrsa:mini-book:magazine:mural"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:resume:about:streams:hrsa:mini-book:magazine:mural"/>
+  </folder>
+  <folder name="images">
+    <file name="magazinestack-u95-3-fr.png" crc="4148758738" ref="index"/>
+    <file name="u154-5.png" crc="254184734" ref="index:resume:about:streams:hrsa:mini-book:magazine:mural"/>
+    <file name="u154-5_2x.png" crc="36990196" ref="index:resume:about:streams:hrsa:mini-book:magazine:mural"/>
+    <file name="u137-4.png" crc="273319011" ref="index:resume:about:streams:hrsa:mini-book:magazine:mural"/>
+    <file name="u137-4_2x.png" crc="93825170" ref="index:resume:about:streams:hrsa:mini-book:magazine:mural"/>
+    <file name="u352-4.png" crc="406766464" ref="index:resume:about:streams:hrsa:mini-book:magazine:mural"/>
+    <file name="u352-4_2x.png" crc="13321439" ref="index:resume:about:streams:hrsa:mini-book:magazine:mural"/>
+    <file name="u383-4.png" crc="4047908643" ref="index:resume:about:streams:hrsa:mini-book:magazine:mural"/>
+    <file name="u383-4_2x.png" crc="434467328" ref="index:resume:about:streams:hrsa:mini-book:magazine:mural"/>
+    <file name="icon_streams.png" crc="4207049772" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u634_states.png" crc="134044456" ref="index"/>
+    <file name="u634_states-r.png" crc="134044456" ref="index"/>
+    <file name="u634_states_2x.png" crc="3926722213" ref="index"/>
+    <file name="u634_states-r_2x.png" crc="3926722213" ref="index"/>
+    <file name="natureicon.png" crc="3789660662" seo="true" ref="index"/>
+    <file name="u638_states.png" crc="134229395" ref="index"/>
+    <file name="u638_states-r.png" crc="134229395" ref="index"/>
+    <file name="u638_states_2x.png" crc="456079099" ref="index"/>
+    <file name="u638_states-r_2x.png" crc="456079099" ref="index"/>
+    <file name="icon_hrsa.png" crc="4266274123" seo="true" ref="index"/>
+    <file name="u642_states.png" crc="3961908644" ref="index"/>
+    <file name="u642_states-r.png" crc="3961908644" ref="index"/>
+    <file name="u642_states_2x.png" crc="254946450" ref="index"/>
+    <file name="u642_states-r_2x.png" crc="254946450" ref="index"/>
+    <file name="icon_mural.png" crc="3917282928" seo="true" ref="index"/>
+    <file name="u646_states.png" crc="176088380" ref="index"/>
+    <file name="u646_states-r.png" crc="176088380" ref="index"/>
+    <file name="u646_states_2x.png" crc="397351850" ref="index"/>
+    <file name="u646_states-r_2x.png" crc="397351850" ref="index"/>
+    <file name="icon_minibook.png" crc="4167179138" seo="true" ref="index"/>
+    <file name="u650_states.png" crc="4232700296" ref="index"/>
+    <file name="u650_states-r.png" crc="4232700296" ref="index"/>
+    <file name="u650_states_2x.png" crc="3875760402" ref="index"/>
+    <file name="u650_states-r_2x.png" crc="3875760402" ref="index"/>
+    <file name="linkedin.png" crc="3795700342" seo="true" ref="index:resume:about:streams:hrsa:mini-book:magazine:mural"/>
+    <file name="linkedin_2x.png" crc="3822304028" seo="true" ref="index:resume:about:streams:hrsa:mini-book:magazine:mural"/>
+    <file name="email.png" crc="3966323309" seo="true" ref="index:resume:about:streams:hrsa:mini-book:magazine:mural"/>
+    <file name="email_2x.png" crc="398321794" seo="true" ref="index:resume:about:streams:hrsa:mini-book:magazine:mural"/>
+    <file name="phone.png" crc="4135589827" seo="true" ref="index:resume:about:streams:hrsa:mini-book:magazine:mural"/>
+    <file name="phone_2x.png" crc="433361690" seo="true" ref="index:resume:about:streams:hrsa:mini-book:magazine:mural"/>
+    <file name="resume-01-u1564-fr.png" crc="4170880165" ref="resume"/>
+    <file name="resume-01-u1564-fr_2x.png" crc="4237374158" ref="resume"/>
+    <file name="resume-01791x1024.png" crc="176853607" seo="true" ref="resume"/>
+    <file name="resume-01791x1024_2x.png" crc="346473879" seo="true" ref="resume"/>
+    <file name="resume-02-u1582-fr.png" crc="4170880165" ref="resume"/>
+    <file name="resume-02-u1582-fr_2x.png" crc="4237374158" ref="resume"/>
+    <file name="me3.jpg" crc="3850252586" seo="true" ref="about"/>
+    <file name="me3_2x.jpg" crc="3992066060" seo="true" ref="about"/>
+    <file name="u907-4.png" crc="500012400" ref="streams"/>
+    <file name="u907-4_2x.png" crc="4118167418" ref="streams"/>
+    <file name="u908-4.png" crc="3798925063" ref="streams"/>
+    <file name="u908-4_2x.png" crc="184202385" ref="streams"/>
+    <file name="u906-4.png" crc="4042834121" ref="streams"/>
+    <file name="u906-4_2x.png" crc="4183895416" ref="streams"/>
+    <file name="streams_sizes_blue.jpg" crc="4130221351" ref="streams"/>
+    <file name="u912-4.png" crc="4030785302" ref="streams"/>
+    <file name="u912-4_2x.png" crc="183208605" ref="streams"/>
+    <file name="u911-4.png" crc="76581603" ref="streams"/>
+    <file name="u911-4_2x.png" crc="192569246" ref="streams"/>
+    <file name="expo.png" crc="20478195" seo="true" ref="streams"/>
+    <file name="expo_2x.png" crc="233587180" seo="true" ref="streams"/>
+    <file name="streams_sketch.png" crc="3835841315" seo="true" ref="streams"/>
+    <file name="streams_sketch_2x.png" crc="331813016" seo="true" ref="streams"/>
+    <file name="u902-4.png" crc="4127174028" ref="streams"/>
+    <file name="u902-4_2x.png" crc="168921437" ref="streams"/>
+    <file name="u904-4.png" crc="3797420373" ref="streams"/>
+    <file name="u904-4_2x.png" crc="4117797389" ref="streams"/>
+    <file name="gradient.jpg" crc="3952226730" ref="streams:hrsa:mini-book:magazine:mural"/>
+    <file name="pasted-svg-154x115.svg" crc="351882688" ref="streams"/>
+    <file name="pasted svg 154x115_poster_.png" crc="3771858385" ref="streams"/>
+    <file name="pasted-svg-90x90.svg" crc="4163940753" ref="streams:hrsa:mini-book:magazine"/>
+    <file name="pasted svg 90x90_poster_.png" crc="3996896587" ref="streams"/>
+    <file name="u909-4.png" crc="4035543924" ref="streams"/>
+    <file name="u909-4_2x.png" crc="286555489" ref="streams"/>
+    <file name="u1011-4.png" crc="4138269081" ref="hrsa"/>
+    <file name="u1011-4_2x.png" crc="3767873380" ref="hrsa"/>
+    <file name="u1010-4.png" crc="3980011036" ref="hrsa"/>
+    <file name="u1010-4_2x.png" crc="34187525" ref="hrsa"/>
+    <file name="u1009-4.png" crc="3891827366" ref="hrsa"/>
+    <file name="u1009-4_2x.png" crc="406459117" ref="hrsa"/>
+    <file name="hrsa2_edited.jpg" crc="342696970" ref="hrsa"/>
+    <file name="u1014-4.png" crc="4030785302" ref="hrsa"/>
+    <file name="u1014-4_2x.png" crc="183208605" ref="hrsa"/>
+    <file name="u1015-4.png" crc="155602720" ref="hrsa"/>
+    <file name="u1015-4_2x.png" crc="6776192" ref="hrsa"/>
+    <file name="hrsa banner.jpg" crc="114438826" seo="true" ref="hrsa"/>
+    <file name="hrsa banner_2x.jpg" crc="200610905" seo="true" ref="hrsa"/>
+    <file name="11261523_1098608326828783_7667151643396334495_o.jpg" crc="372301268" seo="true" ref="hrsa"/>
+    <file name="11261523_1098608326828783_7667151643396334495_o_2x.jpg" crc="272647088" seo="true" ref="hrsa"/>
+    <file name="fb hrsa nominate.jpg" crc="3932439638" seo="true" ref="hrsa"/>
+    <file name="fb hrsa nominate_2x.jpg" crc="4005226403" seo="true" ref="hrsa"/>
+    <file name="hrsa_site.png" crc="3786054354" seo="true" ref="hrsa"/>
+    <file name="hrsa_site_2x.png" crc="3796492733" seo="true" ref="hrsa"/>
+    <file name="hrsa_ss_nametags.png" crc="4004822586" seo="true" ref="hrsa"/>
+    <file name="hrsa_ss_nametags_2x.png" crc="396673781" seo="true" ref="hrsa"/>
+    <file name="11141720_1168875379802077_3417573040755363431_o-crop-u1024.jpg" crc="183932746" ref="hrsa"/>
+    <file name="11141720_1168875379802077_3417573040755363431_o-crop-u1024_2x.jpg" crc="3885138870" ref="hrsa"/>
+    <file name="u1004-4.png" crc="4228522022" ref="hrsa"/>
+    <file name="u1004-4_2x.png" crc="258236810" ref="hrsa"/>
+    <file name="u1006-5.png" crc="141210904" ref="hrsa"/>
+    <file name="u1006-5_2x.png" crc="4092916572" ref="hrsa"/>
+    <file name="u1007-4.png" crc="3797420373" ref="hrsa"/>
+    <file name="u1007-4_2x.png" crc="4117797389" ref="hrsa"/>
+    <file name="u1012-4.png" crc="4035543924" ref="hrsa"/>
+    <file name="u1012-4_2x.png" crc="286555489" ref="hrsa"/>
+    <file name="pasted-svg-90x902.svg" crc="3871109062" ref="hrsa:mini-book:magazine"/>
+    <file name="pasted svg 90x90_poster_2.png" crc="474440353" ref="hrsa"/>
+    <file name="pasted-svg-90x903.svg" crc="258244884" ref="hrsa"/>
+    <file name="pasted svg 90x90_poster_3.png" crc="3930455811" ref="hrsa"/>
+    <file name="u1167-4.png" crc="4123862184" ref="mini-book"/>
+    <file name="u1167-4_2x.png" crc="286054995" ref="mini-book"/>
+    <file name="u1165-4.png" crc="4219713465" ref="mini-book"/>
+    <file name="u1165-4_2x.png" crc="3970166881" ref="mini-book"/>
+    <file name="u1166-4.png" crc="4100532962" ref="mini-book"/>
+    <file name="u1166-4_2x.png" crc="3878368380" ref="mini-book"/>
+    <file name="aaiw_cover.jpg" crc="113302803" ref="mini-book"/>
+    <file name="aaiw_chapter.jpg" crc="4063202616" seo="true" ref="mini-book"/>
+    <file name="aaiw_chapter_2x.jpg" crc="4006119751" seo="true" ref="mini-book"/>
+    <file name="u1170-4.png" crc="4030785302" ref="mini-book"/>
+    <file name="u1170-4_2x.png" crc="183208605" ref="mini-book"/>
+    <file name="u1171-6.png" crc="3900216191" ref="mini-book"/>
+    <file name="u1171-6_2x.png" crc="3782991251" ref="mini-book"/>
+    <file name="book process.jpg" crc="3862121697" seo="true" ref="mini-book"/>
+    <file name="book process_2x.jpg" crc="4283122816" seo="true" ref="mini-book"/>
+    <file name="u1160-4.png" crc="416103070" ref="mini-book"/>
+    <file name="u1160-4_2x.png" crc="489116778" ref="mini-book"/>
+    <file name="u1162-5.png" crc="141210904" ref="mini-book"/>
+    <file name="u1162-5_2x.png" crc="4092916572" ref="mini-book"/>
+    <file name="u1163-4.png" crc="3797420373" ref="mini-book"/>
+    <file name="u1163-4_2x.png" crc="4117797389" ref="mini-book"/>
+    <file name="u1168-4.png" crc="4035543924" ref="mini-book"/>
+    <file name="u1168-4_2x.png" crc="286555489" ref="mini-book"/>
+    <file name="u1267-4.png" crc="251059254" ref="magazine"/>
+    <file name="u1267-4_2x.png" crc="321212070" ref="magazine"/>
+    <file name="u1268-4.png" crc="116857465" ref="magazine"/>
+    <file name="u1268-4_2x.png" crc="3908965332" ref="magazine"/>
+    <file name="u1266-4.png" crc="3827017397" ref="magazine"/>
+    <file name="u1266-4_2x.png" crc="345608935" ref="magazine"/>
+    <file name="mag_cover.jpg" crc="3894552884" ref="magazine"/>
+    <file name="pub231vickidancau4.jpg" crc="47773865" seo="true" ref="magazine"/>
+    <file name="pub231vickidancau4_2x.jpg" crc="4182515736" seo="true" ref="magazine"/>
+    <file name="pub231vickidancau5.jpg" crc="4242711865" seo="true" ref="magazine"/>
+    <file name="pub231vickidancau5_2x.jpg" crc="250222643" seo="true" ref="magazine"/>
+    <file name="pub231vickidancau6.jpg" crc="264903102" seo="true" ref="magazine"/>
+    <file name="pub231vickidancau6_2x.jpg" crc="133321610" seo="true" ref="magazine"/>
+    <file name="pub231vickidancau7.jpg" crc="3847539125" seo="true" ref="magazine"/>
+    <file name="pub231vickidancau7_2x.jpg" crc="174337249" seo="true" ref="magazine"/>
+    <file name="pub231vickidancau8.jpg" crc="3907315537" seo="true" ref="magazine"/>
+    <file name="pub231vickidancau8_2x.jpg" crc="149207770" seo="true" ref="magazine"/>
+    <file name="u1271-4.png" crc="4030785302" ref="magazine"/>
+    <file name="u1271-4_2x.png" crc="183208605" ref="magazine"/>
+    <file name="u1272-6.png" crc="4124333095" ref="magazine"/>
+    <file name="u1272-6_2x.png" crc="4251832566" ref="magazine"/>
+    <file name="untitled-2.jpg" crc="118502675" seo="true" ref="magazine"/>
+    <file name="untitled-2_2x.jpg" crc="4148768150" seo="true" ref="magazine"/>
+    <file name="untitled-5.jpg" crc="4053409776" seo="true" ref="magazine"/>
+    <file name="untitled-5_2x.jpg" crc="4219217998" seo="true" ref="magazine"/>
+    <file name="untitled-3.jpg" crc="3762446920" seo="true" ref="magazine"/>
+    <file name="untitled-3_2x.jpg" crc="471134216" seo="true" ref="magazine"/>
+    <file name="untitled-6.jpg" crc="4228647180" seo="true" ref="magazine"/>
+    <file name="untitled-6_2x.jpg" crc="502308980" seo="true" ref="magazine"/>
+    <file name="nature ex.png" crc="506629313" seo="true" ref="magazine"/>
+    <file name="nature ex_2x.png" crc="360471402" seo="true" ref="magazine"/>
+    <file name="u1261-4.png" crc="3939680081" ref="magazine"/>
+    <file name="u1261-4_2x.png" crc="298430099" ref="magazine"/>
+    <file name="u1263-5.png" crc="141210904" ref="magazine"/>
+    <file name="u1263-5_2x.png" crc="4092916572" ref="magazine"/>
+    <file name="u1264-4.png" crc="3797420373" ref="magazine"/>
+    <file name="u1264-4_2x.png" crc="4117797389" ref="magazine"/>
+    <file name="u1269-4.png" crc="4035543924" ref="magazine"/>
+    <file name="u1269-4_2x.png" crc="286555489" ref="magazine"/>
+    <file name="u1431-4.png" crc="4142687149" ref="mural"/>
+    <file name="u1431-4_2x.png" crc="4047794472" ref="mural"/>
+    <file name="u1432-4.png" crc="3780213493" ref="mural"/>
+    <file name="u1432-4_2x.png" crc="305098739" ref="mural"/>
+    <file name="u1430-4.png" crc="4073456749" ref="mural"/>
+    <file name="u1430-4_2x.png" crc="3939266129" ref="mural"/>
+    <file name="7540e3493a51a314adac45d22ffeeb15.jpg" crc="3785101849" ref="mural"/>
+    <file name="u1438-4.png" crc="4030785302" ref="mural"/>
+    <file name="u1438-4_2x.png" crc="183208605" ref="mural"/>
+    <file name="u1439-4.png" crc="408468428" ref="mural"/>
+    <file name="u1439-4_2x.png" crc="15138792" ref="mural"/>
+    <file name="9eeafa28304dbc81a566e532f073d5e1.jpg" crc="436107398" seo="true" ref="mural"/>
+    <file name="img_9892_zpsa38ce17b.jpg" crc="3989698641" seo="true" ref="mural"/>
+    <file name="img_9892_zpsa38ce17b_2x.jpg" crc="4075054825" seo="true" ref="mural"/>
+    <file name="img_9946_zps0401a55d.jpg" crc="4239907567" seo="true" ref="mural"/>
+    <file name="img_9946_zps0401a55d_2x.jpg" crc="426711375" seo="true" ref="mural"/>
+    <file name="img_9899_zps8ea76465.jpg" crc="410025628" seo="true" ref="mural"/>
+    <file name="img_9899_zps8ea76465_2x.jpg" crc="3776113690" seo="true" ref="mural"/>
+    <file name="img_9879_zps2ff0dfe1.jpg" crc="4168103315" seo="true" ref="mural"/>
+    <file name="img_9879_zps2ff0dfe1_2x.jpg" crc="287858838" seo="true" ref="mural"/>
+    <file name="u1434-4.png" crc="131484186" ref="mural"/>
+    <file name="u1434-4_2x.png" crc="168064829" ref="mural"/>
+    <file name="u1435-5.png" crc="82138577" ref="mural"/>
+    <file name="u1435-5_2x.png" crc="500672122" ref="mural"/>
+    <file name="pasted-svg-83808x83.svg" crc="4280753419" ref="mural"/>
+    <file name="pasted svg 83808x83_poster_.png" crc="479470852" ref="mural"/>
+    <file name="pasted-svg-100.svg" crc="3909669152" ref="mural"/>
+    <file name="pasted svg 100_poster_.png" crc="65404107" ref="mural"/>
+    <file name="u1436-4.png" crc="4035543924" ref="mural"/>
+    <file name="u1436-4_2x.png" crc="286555489" ref="mural"/>
+  </folder>
+  <file name="index.html" crc="30209467" seo="true" mt="1461624748715" redirect="true"/>
+  <file name="resume.html" crc="4047120972" seo="true" mt="1461624748715" redirect="true"/>
+  <file name="about.html" crc="4077418164" seo="true" mt="1461624748715" redirect="true"/>
+  <file name="streams.html" crc="3922319757" seo="true" mt="1461624748715" redirect="true"/>
+  <file name="hrsa.html" crc="293380192" seo="true" mt="1461624748715" redirect="true"/>
+  <file name="mini-book.html" crc="3916012049" seo="true" mt="1461624748715" redirect="true"/>
+  <file name="magazine.html" crc="410620470" seo="true" mt="1461624748715" redirect="true"/>
+  <file name="mural.html" crc="4269970239" seo="true" mt="1461625227217" redirect="true"/>
+</manifest>
