@@ -1,14 +1,14 @@
 .version.resume /* version checker */
 {
-	color: #0000FA;
-	background-color: #A489EA;
+	color: #0000EB;
+	background-color: #276139;
 }
 
 #page
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 593.6500000000005px;
+	min-height: 593.6500000000003px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
@@ -47,8 +47,8 @@
 {
 	z-index: 58;
 	position: relative;
+	width: 514px;
 	margin-right: -10000px;
-	left: -1px;
 }
 
 #u96
@@ -112,28 +112,6 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u420-4
-{
-	width: 110px;
-	min-height: 13px;
-	padding-left: 2px;
-	padding-top: 4px;
-	padding-right: 2px;
-	position: relative;
-	margin-right: -10000px;
-	top: 3px;
-	left: 3px;
-}
-
-#u416:hover #u420-4
-{
-	padding-top: 4px;
-	padding-bottom: 0px;
-	min-height: 13px;
-	width: 110px;
-	margin: 0px -10000px 0px 0px;
-}
-
 #u448
 {
 	width: 119px;
@@ -146,28 +124,6 @@
 {
 	width: 119px;
 	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u450-4
-{
-	width: 110px;
-	min-height: 13px;
-	padding-left: 2px;
-	padding-top: 4px;
-	padding-right: 2px;
-	position: relative;
-	margin-right: -10000px;
-	top: 3px;
-	left: 3px;
-}
-
-#u416.MuseMenuActive #u420-4,#u448:hover #u450-4
-{
-	padding-top: 4px;
-	padding-bottom: 0px;
-	min-height: 13px;
-	width: 110px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -186,28 +142,6 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u483-4
-{
-	width: 110px;
-	min-height: 13px;
-	padding-left: 2px;
-	padding-top: 4px;
-	padding-right: 2px;
-	position: relative;
-	margin-right: -10000px;
-	top: 3px;
-	left: 3px;
-}
-
-#u448.MuseMenuActive #u450-4,#u481:hover #u483-4
-{
-	padding-top: 4px;
-	padding-bottom: 0px;
-	min-height: 13px;
-	width: 110px;
-	margin: 0px -10000px 0px 0px;
-}
-
 #u516
 {
 	width: 119px;
@@ -220,28 +154,6 @@
 {
 	width: 119px;
 	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u518-4
-{
-	width: 110px;
-	min-height: 13px;
-	padding-left: 2px;
-	padding-top: 4px;
-	padding-right: 2px;
-	position: relative;
-	margin-right: -10000px;
-	top: 3px;
-	left: 3px;
-}
-
-#u481.MuseMenuActive #u483-4,#u516:hover #u518-4
-{
-	padding-top: 4px;
-	padding-bottom: 0px;
-	min-height: 13px;
-	width: 110px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -274,35 +186,12 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u550-4
+#u420-4,#u450-4,#u483-4,#u518-4,#u550-4
 {
-	width: 110px;
-	min-height: 13px;
-	padding-left: 2px;
-	padding-top: 4px;
-	padding-right: 2px;
 	position: relative;
 	margin-right: -10000px;
 	top: 3px;
 	left: 3px;
-}
-
-#u516.MuseMenuActive #u518-4,#u549:hover #u550-4
-{
-	padding-top: 4px;
-	padding-bottom: 0px;
-	min-height: 13px;
-	width: 110px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u549.MuseMenuActive #u550-4
-{
-	padding-top: 4px;
-	padding-bottom: 0px;
-	min-height: 13px;
-	width: 110px;
-	margin: 0px -10000px 0px 0px;
 }
 
 #u348
@@ -371,8 +260,9 @@
 #u1579
 {
 	z-index: 71;
-	min-height: 2312px;
+	min-height: 1733px;
 	background-color: #FFFFFF;
+	padding-bottom: 89px;
 }
 
 #u1579_align_to_page
@@ -382,48 +272,17 @@
 	position: relative;
 	width: 960px;
 	left: -100px;
-	padding-top: 120px;
-	padding-bottom: 134px;
 }
 
-#u1564
+#u1904
 {
 	z-index: 72;
-	width: 791px;
-	left: 185px;
+	width: 708px;
+	background-color: transparent;
 	position: relative;
-	background: #D0DBDF url("../images/resume-01-u1564-fr.png") no-repeat left top;
-	background-color: rgba(163,186,193,0.51);
-}
-
-.hidpi #u1564
-{
-	background-image: url("../images/resume-01-u1564-fr_2x.png");
-	background-size: 1275px 1650px;
-}
-
-#u1582
-{
-	z-index: 74;
-	width: 791px;
-	left: 185px;
-	margin-top: 10px;
-	position: relative;
-	background: #D0DBDF url("../images/resume-02-u1582-fr.png") no-repeat left top;
-	background-color: rgba(163,186,193,0.51);
-}
-
-.hidpi #u1582
-{
-	background-image: url("../images/resume-02-u1582-fr_2x.png");
-	background-size: 1275px 1650px;
-}
-
-#u1564_img,#u1582_img
-{
-	opacity: 0.51;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=51)";
-	filter: alpha(opacity=51);
+	margin-right: -10000px;
+	margin-top: 72px;
+	left: 233px;
 }
 
 .js body
@@ -439,7 +298,7 @@
 #u1579-bw
 {
 	z-index: 71;
-	min-height: 2312px;
+	min-height: 1733px;
 	margin-top: 20px;
 }
 
